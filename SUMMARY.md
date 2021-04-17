@@ -1,4 +1,4 @@
 # Table of contents
 
-* [API Info](README.md)
+* [scratch-api-docs](README.md)
 
